@@ -1,4 +1,4 @@
-##How to use
+How to use
 .Navigate to the api directory
 Install project dependencies with npm install
 After the dependencies have installed, run npm run seed to seed the database
